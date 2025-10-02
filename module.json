@@ -21,7 +21,7 @@
     }
   ],
 	"manifest": "https://github.com/SittingHill/So-Many-Subclasses/releases/latest/download/module.json",
-    "download": "https://github.com/SittingHill/So-Many-Subclasses/releases/download/1.0.0/module.zip",
+    "download": "https://github.com/SittingHill/So-Many-Subclasses/releases/download/1.0/module.zip",
     "description": "<p>Unoffical implimentations of subclasses designed by So Many Robots</p>",
     "esmodules": [
         "setup.js"
