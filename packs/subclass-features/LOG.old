@@ -1,14 +1,14 @@
-2025/10/04-16:10:09.295 3e00 Recovering log #68
-2025/10/04-16:10:09.297 3e00 Delete type=0 #68
-2025/10/04-16:10:09.297 3e00 Delete type=3 #67
-2025/10/04-16:34:55.214 4b80 Level-0 table #72: started
-2025/10/04-16:34:55.219 4b80 Level-0 table #72: 7890 bytes OK
-2025/10/04-16:34:55.221 4b80 Delete type=0 #70
-2025/10/04-16:34:55.224 4b80 Manual compaction at level-0 from '!folders!0G1GRFCMKSbqsfoo' @ 72057594037927935 : 1 .. '!items.effects!zNFFiIBMch3vXPKO.Ngrqi9KVlB3xgh4W' @ 0 : 0; will stop at '!items!zHhcKsZQ0CoRL6oh' @ 375 : 1
-2025/10/04-16:34:55.224 4b80 Compacting 1@0 + 1@1 files
-2025/10/04-16:34:55.227 4b80 Generated table #73@0: 173 keys, 150147 bytes
-2025/10/04-16:34:55.227 4b80 Compacted 1@0 + 1@1 files => 150147 bytes
-2025/10/04-16:34:55.228 4b80 compacted to: files[ 0 1 0 0 0 0 0 ]
-2025/10/04-16:34:55.228 4b80 Delete type=2 #60
-2025/10/04-16:34:55.229 4b80 Delete type=2 #72
-2025/10/04-16:34:55.233 4b80 Manual compaction at level-0 from '!items!zHhcKsZQ0CoRL6oh' @ 375 : 1 .. '!items.effects!zNFFiIBMch3vXPKO.Ngrqi9KVlB3xgh4W' @ 0 : 0; will stop at (end)
+2025/10/10-17:43:22.182 7a4 Recovering log #221
+2025/10/10-17:43:22.185 7a4 Delete type=0 #221
+2025/10/10-17:43:22.185 7a4 Delete type=3 #218
+2025/10/10-17:47:30.586 28a0 Level-0 table #227: started
+2025/10/10-17:47:30.596 28a0 Level-0 table #227: 3143 bytes OK
+2025/10/10-17:47:30.597 28a0 Delete type=0 #225
+2025/10/10-17:47:30.600 28a0 Manual compaction at level-0 from '!folders!0G1GRFCMKSbqsfoo' @ 72057594037927935 : 1 .. '!items.effects!zNFFiIBMch3vXPKO.Ngrqi9KVlB3xgh4W' @ 0 : 0; will stop at '!items.effects!DfETYzmhzjDJQwXZ.pBZfCISo1JBwIq1O' @ 1037 : 1
+2025/10/10-17:47:30.600 28a0 Compacting 1@0 + 1@1 files
+2025/10/10-17:47:30.605 28a0 Generated table #228@0: 349 keys, 308481 bytes
+2025/10/10-17:47:30.605 28a0 Compacted 1@0 + 1@1 files => 308481 bytes
+2025/10/10-17:47:30.606 28a0 compacted to: files[ 0 1 0 0 0 0 0 ]
+2025/10/10-17:47:30.606 28a0 Delete type=2 #223
+2025/10/10-17:47:30.606 28a0 Delete type=2 #227
+2025/10/10-17:47:30.609 28a0 Manual compaction at level-0 from '!items.effects!DfETYzmhzjDJQwXZ.pBZfCISo1JBwIq1O' @ 1037 : 1 .. '!items.effects!zNFFiIBMch3vXPKO.Ngrqi9KVlB3xgh4W' @ 0 : 0; will stop at (end)
