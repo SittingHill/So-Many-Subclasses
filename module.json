@@ -1,7 +1,7 @@
 {
   "id": "so-many-subclasses",
   "title": "So Many Subclasses",
-  "version": "1.2.1",
+  "version": "1.3.0",
   "compatibility": {
     "minimum": "13",
     "verified": "13.350"
@@ -21,7 +21,7 @@
     }
   ],
 	"manifest": "https://github.com/SittingHill/So-Many-Subclasses/releases/latest/download/module.json",
-    "download": "https://github.com/SittingHill/So-Many-Subclasses/releases/download/1.2.1/module.zip",
+    "download": "https://github.com/SittingHill/So-Many-Subclasses/releases/download/1.3.0/module.zip",
     "description": "<p>Unoffical implimentations of subclasses designed by So Many Robots</p>",
     "esmodules": [
         "setup.js"
@@ -49,7 +49,8 @@
 				"Compendium.so-many-subclasses.rules.JournalEntry.vAElxFLjFO54qqni.JournalEntryPage.mFEhx4Eeya78Ullt",
 				"Compendium.so-many-subclasses.rules.JournalEntry.vAElxFLjFO54qqni.JournalEntryPage.NkPHU8ObqxY9K8mJ",
 				"Compendium.so-many-subclasses.rules.JournalEntry.vAElxFLjFO54qqni.JournalEntryPage.TJIIsKnktIPWMMvi",
-				"Compendium.so-many-subclasses.rules.JournalEntry.vAElxFLjFO54qqni.JournalEntryPage.21RweUjNSvemET7K"
+				"Compendium.so-many-subclasses.rules.JournalEntry.vAElxFLjFO54qqni.JournalEntryPage.21RweUjNSvemET7K",
+				"Compendium.so-many-subclasses.rules.JournalEntry.vAElxFLjFO54qqni.JournalEntryPage.kOAsYCdOKeV61I4t"
             ]
         }
     },
