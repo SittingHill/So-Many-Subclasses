@@ -1,3 +1,5 @@
-2025/11/10-14:33:28.726 3c34 Recovering log #311
-2025/11/10-14:33:28.728 3c34 Delete type=0 #311
-2025/11/10-14:33:28.729 3c34 Delete type=3 #309
+2026/01/11-05:58:55.882 3cdc Recovering log #326
+2026/01/11-05:58:55.882 3cdc Level-0 table #328: started
+2026/01/11-05:58:55.890 3cdc Level-0 table #328: 4007 bytes OK
+2026/01/11-05:58:55.893 3cdc Delete type=0 #326
+2026/01/11-05:58:55.893 3cdc Delete type=3 #325

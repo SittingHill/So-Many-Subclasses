@@ -7,6 +7,12 @@ Hooks.once('init', () => {
 	CONFIG.DND5E.featureTypes.class.subtypes.runemark = "Runemark";
 	CONFIG.DND5E.featureTypes.class.subtypes.enhancedRunemark = "Enhanced Runemark";
 	CONFIG.DND5E.featureTypes.class.subtypes.forgewroughtAugmentation = "Forgewrought Augmentation";
+	CONFIG.DND5E.featureTypes.class.subtypes.basicConcoction = "Basic Concoction";
+	CONFIG.DND5E.featureTypes.class.subtypes.advancedConcoction = "Advanced Concoction";
+	CONFIG.DND5E.featureTypes.class.subtypes.spellshapingTechnique = "Spellshaping Technique";
+	CONFIG.DND5E.featureTypes.class.subtypes.beastForm = "Beast Form";
+	CONFIG.DND5E.featureTypes.class.subtypes.sorcerousBloodline = "Sorcerous Bloodline";
+	
 
   // Make Psionics a valid spellcasting school
   CONFIG.DND5E.spellSchools.psi = {
